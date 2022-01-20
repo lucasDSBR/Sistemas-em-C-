@@ -1,0 +1,7 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Hotel\Hotel\obj\Debug\Hotel.pdb

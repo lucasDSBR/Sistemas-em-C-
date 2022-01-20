@@ -1,0 +1,7 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores\Vetores\bin\Debug\Vetores.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores\Vetores\bin\Debug\Vetores.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores\Vetores\bin\Debug\Vetores.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores\Vetores\obj\Debug\Vetores.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores\Vetores\obj\Debug\Vetores.pdb

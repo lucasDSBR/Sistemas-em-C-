@@ -1,0 +1,7 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CalculoLadoTrianguos\CalculoLadoTrianguos\bin\Debug\CalculoLadoTrianguos.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CalculoLadoTrianguos\CalculoLadoTrianguos\bin\Debug\CalculoLadoTrianguos.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CalculoLadoTrianguos\CalculoLadoTrianguos\bin\Debug\CalculoLadoTrianguos.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CalculoLadoTrianguos\CalculoLadoTrianguos\obj\Debug\CalculoLadoTrianguos.csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CalculoLadoTrianguos\CalculoLadoTrianguos\obj\Debug\CalculoLadoTrianguos.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CalculoLadoTrianguos\CalculoLadoTrianguos\obj\Debug\CalculoLadoTrianguos.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CalculoLadoTrianguos\CalculoLadoTrianguos\obj\Debug\CalculoLadoTrianguos.pdb

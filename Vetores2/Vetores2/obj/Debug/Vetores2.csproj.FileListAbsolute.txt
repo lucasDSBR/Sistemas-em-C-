@@ -1,0 +1,7 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores2\Vetores2\bin\Debug\Vetores2.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores2\Vetores2\bin\Debug\Vetores2.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores2\Vetores2\bin\Debug\Vetores2.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores2\Vetores2\obj\Debug\Vetores2.csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores2\Vetores2\obj\Debug\Vetores2.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores2\Vetores2\obj\Debug\Vetores2.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Vetores2\Vetores2\obj\Debug\Vetores2.pdb

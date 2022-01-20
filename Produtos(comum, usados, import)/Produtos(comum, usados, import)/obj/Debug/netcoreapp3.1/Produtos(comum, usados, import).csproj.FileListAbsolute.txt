@@ -1,0 +1,13 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\bin\Debug\netcoreapp3.1\Produtos(comum, usados, import).exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\bin\Debug\netcoreapp3.1\Produtos(comum, usados, import).deps.json
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\bin\Debug\netcoreapp3.1\Produtos(comum, usados, import).runtimeconfig.json
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\bin\Debug\netcoreapp3.1\Produtos(comum, usados, import).runtimeconfig.dev.json
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\bin\Debug\netcoreapp3.1\Produtos(comum, usados, import).dll
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\bin\Debug\netcoreapp3.1\Produtos(comum, usados, import).pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\obj\Debug\netcoreapp3.1\Produtos(comum, usados, import).csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\obj\Debug\netcoreapp3.1\Produtos(comum, usados, import).AssemblyInfoInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\obj\Debug\netcoreapp3.1\Produtos(comum, usados, import).AssemblyInfo.cs
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\obj\Debug\netcoreapp3.1\Produtos(comum, usados, import).csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\obj\Debug\netcoreapp3.1\Produtos(comum, usados, import).dll
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\obj\Debug\netcoreapp3.1\Produtos(comum, usados, import).pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Produtos(comum, usados, import)\Produtos(comum, usados, import)\obj\Debug\netcoreapp3.1\Produtos(comum, usados, import).genruntimeconfig.cache

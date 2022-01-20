@@ -1,0 +1,7 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Retangulo\Retangulo\bin\Debug\Retangulo.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Retangulo\Retangulo\bin\Debug\Retangulo.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Retangulo\Retangulo\bin\Debug\Retangulo.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Retangulo\Retangulo\obj\Debug\Retangulo.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Retangulo\Retangulo\obj\Debug\Retangulo.pdb

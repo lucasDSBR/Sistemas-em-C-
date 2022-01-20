@@ -1,0 +1,7 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Listas\Listas\bin\Debug\Listas.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Listas\Listas\bin\Debug\Listas.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Listas\Listas\bin\Debug\Listas.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Listas\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Listas\Listas\obj\Debug\Listas.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Listas\Listas\obj\Debug\Listas.pdb

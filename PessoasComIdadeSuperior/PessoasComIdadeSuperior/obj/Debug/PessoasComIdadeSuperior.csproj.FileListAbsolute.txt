@@ -1,0 +1,6 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\PessoasComIdadeSuperior\PessoasComIdadeSuperior\bin\Debug\PessoasComIdadeSuperior.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\PessoasComIdadeSuperior\PessoasComIdadeSuperior\bin\Debug\PessoasComIdadeSuperior.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\PessoasComIdadeSuperior\PessoasComIdadeSuperior\bin\Debug\PessoasComIdadeSuperior.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\PessoasComIdadeSuperior\PessoasComIdadeSuperior\obj\Debug\PessoasComIdadeSuperior.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\PessoasComIdadeSuperior\PessoasComIdadeSuperior\obj\Debug\PessoasComIdadeSuperior.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\PessoasComIdadeSuperior\PessoasComIdadeSuperior\obj\Debug\PessoasComIdadeSuperior.pdb

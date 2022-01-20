@@ -1,0 +1,7 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\RefValores\RefValores\bin\Debug\RefValores.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\RefValores\RefValores\bin\Debug\RefValores.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\RefValores\RefValores\bin\Debug\RefValores.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\RefValores\RefValores\obj\Debug\RefValores.csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\RefValores\RefValores\obj\Debug\RefValores.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\RefValores\RefValores\obj\Debug\RefValores.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\RefValores\RefValores\obj\Debug\RefValores.pdb

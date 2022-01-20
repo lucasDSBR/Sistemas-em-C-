@@ -1,0 +1,7 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.pdb

@@ -1,0 +1,7 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\UsuarioID\UsuarioID\bin\Debug\UsuarioID.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\UsuarioID\UsuarioID\bin\Debug\UsuarioID.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\UsuarioID\UsuarioID\bin\Debug\UsuarioID.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\UsuarioID\UsuarioID\obj\Debug\UsuarioID.csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\UsuarioID\UsuarioID\obj\Debug\UsuarioID.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\UsuarioID\UsuarioID\obj\Debug\UsuarioID.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\UsuarioID\UsuarioID\obj\Debug\UsuarioID.pdb

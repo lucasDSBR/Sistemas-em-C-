@@ -1,0 +1,7 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Estoque\Estoque\obj\Debug\Estoque.csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Estoque\Estoque\obj\Debug\Estoque.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Estoque\Estoque\bin\Debug\Estoque.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Estoque\Estoque\bin\Debug\Estoque.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Estoque\Estoque\bin\Debug\Estoque.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Estoque\Estoque\obj\Debug\Estoque.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Estoque\Estoque\obj\Debug\Estoque.pdb

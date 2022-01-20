@@ -1,0 +1,7 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Construtores1\Construtores1\obj\Debug\Construtores1.csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Construtores1\Construtores1\obj\Debug\Construtores1.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Construtores1\Construtores1\bin\Debug\Construtores1.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Construtores1\Construtores1\bin\Debug\Construtores1.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Construtores1\Construtores1\bin\Debug\Construtores1.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Construtores1\Construtores1\obj\Debug\Construtores1.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\Construtores1\Construtores1\obj\Debug\Construtores1.pdb

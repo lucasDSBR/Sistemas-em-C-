@@ -1,0 +1,7 @@
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\DadosFuncionario\DadosFuncionario\bin\Debug\DadosFuncionario.exe.config
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\DadosFuncionario\DadosFuncionario\bin\Debug\DadosFuncionario.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\DadosFuncionario\DadosFuncionario\bin\Debug\DadosFuncionario.pdb
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\DadosFuncionario\DadosFuncionario\obj\Debug\DadosFuncionario.csproj.AssemblyReference.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\DadosFuncionario\DadosFuncionario\obj\Debug\DadosFuncionario.csproj.CoreCompileInputs.cache
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\DadosFuncionario\DadosFuncionario\obj\Debug\DadosFuncionario.exe
+D:\Arquivos salvos\Eng. da Computação\Projetos_C#\DadosFuncionario\DadosFuncionario\obj\Debug\DadosFuncionario.pdb
